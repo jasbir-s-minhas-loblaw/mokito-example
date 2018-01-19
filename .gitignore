@@ -82,6 +82,11 @@ local.properties
 .idea/**/gradle.xml
 .idea/**/libraries
 
+# Intellij ignore added by Jasbir
+.idea/*.xml
+*.iml
+.idea/*
+
 # CMake
 cmake-build-debug/
 
